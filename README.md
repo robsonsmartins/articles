@@ -1,2 +1,2 @@
 # articles
-Artigos e Publicações escritos para Comunidades de Tecnologia.
+Articles and Publications written for Technology Communities.
